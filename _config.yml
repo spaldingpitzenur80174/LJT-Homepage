@@ -22,7 +22,7 @@ repository               : "spaldingpitzenur80174/LJT-Homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "favicon.svg"
   name             : "Junteng Liu"
   pronouns         : 
   bio              : "First-year PhD candidate at HKUST NLP Group"
@@ -243,7 +243,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time Zones
+timezone: Etc/UTC
 
 
 # Plugins
